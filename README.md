@@ -10,6 +10,4 @@ https://verastud.github.io/Calendar/
 Продувнова Вера - разработчик и все остальное.
 
 # Использованные технологии:
-HTML
-CSS
-JS
+HTML+CSS, JS
